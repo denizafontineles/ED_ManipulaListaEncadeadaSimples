@@ -3,9 +3,13 @@ import com.deniza.utils.ListaEncadeadaInt.ListaEncadeadaInt;
 
 /*
  * Considere listas implementadas por encadeamento simples, então pede-se para implementar funções que:
+ * 
  * a. Concatenar/intercalar duas listas;
+ * 
  * b. Dividir uma lista em várias;
+ * 
  * c. Copiar uma lista;
+ * 
  * d. Ordenar (sort) uma lista por ordem crescente/decrescente.
  */
 
